@@ -3,10 +3,12 @@
 </p>
 <h3 align="center">Ground Wars: Existence (ARMA 3 RPG Framework)</h3>
 
-[![Discord](https://img.shields.io/badge/Discord-Join-blue.svg?longCache=true&style=for-the-badge)](https://discord.gg/4KS232W)
-![ARMA 3 Version](https://img.shields.io/badge/ARMA%203%20Version-1.82-yellowgreen.svg?longCache=true&style=for-the-badge)
-![ARMA 3 Branch](https://img.shields.io/badge/ARMA%203%20Branch-Stable-yellow.svg?longCache=true&style=for-the-badge)
-![Framework Version](https://img.shields.io/badge/Framework%20Version-Beta%20v0.1-red.svg?longCache=true&style=for-the-badge)
+<p align="center">
+    [![Discord](https://img.shields.io/badge/Discord-Join-blue.svg?longCache=true&style=for-the-badge)](https://discord.gg/4KS232W)
+    ![ARMA 3 Version](https://img.shields.io/badge/ARMA%203%20Version-1.82-yellowgreen.svg?longCache=true&style=for-the-badge)
+    ![ARMA 3 Branch](https://img.shields.io/badge/ARMA%203%20Branch-Stable-yellow.svg?longCache=true&style=for-the-badge)
+    ![Framework Version](https://img.shields.io/badge/Framework%20Version-Beta%20v0.1-red.svg?longCache=true&style=for-the-badge)
+</p>
 
 ## Quickstart
 
