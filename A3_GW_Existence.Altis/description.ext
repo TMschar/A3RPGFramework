@@ -1,0 +1,54 @@
+/**
+ * Copyright (c) 2017 SimZor, SimZor Studios
+ * All Rights Reserved
+ *
+ * Filename: description.ext
+ */
+
+// Includes
+#include "Includes\config_macros.hpp"
+#include "Configs\ArmA\CfgArmA.hpp"
+#include "Configs\GroundWars\CfgGroundWars.hpp"
+
+// Graphical User Interface
+#include "GUI\master.hpp"
+
+// Loading Info
+author          = "Simon A. (SimZor)";
+onLoadName      = "Ground Wars: Existence";
+onLoadMission   = "Ground Wars: Existence, the new kind of RPG.";
+overviewText    = "https://ground-wars.com";
+
+// Misc. Info
+onLoadIntroTime     = 1;
+loadScreen          = "Textures\splash.paa";
+disabledAI          = 1;
+briefing            = 0;
+saving              = 0;
+showGroupIndicator  = 0;
+showSquadRadar      = 0;
+enableDebugConsole  = 0;
+
+// Respawn Options
+respawn             = 3;
+respawnDelay        = 10;
+respawnDialog       = 0;
+respawnButton       = 0;
+respawnTemplates[]  = {};
+
+// Disabled Channels
+disableChannels[] =
+{
+    {0, false, true}, // Global
+    {2, true,  true}, // Command
+    {1, false, true}, // Side
+    {6, true,  true}  // Command
+};
+
+// Header
+class Header
+{
+    gameType   = RPG;
+    minPlayers = 1;
+    maxPlayers = 120;
+};

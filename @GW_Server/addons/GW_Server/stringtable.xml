@@ -1,0 +1,54 @@
+<!--
+    Copyright (C) SimZor, SimZor Studios 2017
+
+    stringtable.xml
+-->
+
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="GROUND WARS: TEAM DEATHMATCH">
+    <Package name="GROUND WARS: TEAM DEATHMATCH">
+        <Container name="STR_GW_GLOBAL">
+			<Key ID="STR_GW_GLOBAL_YES">
+				<Original>yes</Original>
+				<English>yes</English>
+				<Czech>ano</Czech>
+				<French>oui</French>
+				<German>ja</German>
+				<Italian>sì</Italian>
+				<Polish>tak</Polish>
+				<Portuguese>sim</Portuguese>
+				<Russian>да</Russian>
+				<Spanish>sí</Spanish>
+				<Korean>네</Korean>
+				<Japanese>はい</Japanese>
+			</Key>
+			<Key ID="STR_GW_GLOBAL_NO">
+				<Original>NO</Original>
+			</Key>
+		</Container>
+        <Container name="STR_GW_SERVER_LOG">
+            <Key ID="STR_GW_SERVER_LOG_ORGANIZATIONS_NOORGSTOINIT">
+                <Original>NO EXISTING ORGANIZATIONS TO INITIALIZE</Original>
+                <English>NO EXISTING ORGANIZATIONS TO INITIALIZE</English>
+            </Key>
+            <Key ID="STR_GW_SERVER_LOG_ORGANIZATIONS_EXISTINGNAME">
+                <Original>ORGANIZATIONS WITH THAT NAME ALREADY EXISTING</Original>
+                <English>ORGANIZATIONS WITH THAT NAME ALREADY EXISTING</English>
+            </Key>
+            <Key ID="STR_GW_SERVER_LOG_ORGANIZATIONS_CREATED">
+                <Original>ORGANIZATION CREATED FOR %1:%2 CALLED %3:%4</Original>
+                <English>ORGANIZATION CREATED FOR %1:%2 CALLED %3:%4</English>
+            </Key>
+            <Key ID="STR_GW_SERVER_LOG_PARAMERROR">
+                <Original>ERROR: NOT ENOUGH PARAMS PASSED</Original>
+                <English>ERROR: NOT ENOUGH PARAMS PASSED</English>
+            </Key>
+        </Container>
+        <Container name="STR_GW_SERVER_ORGANIZATIONS">
+            <Key ID="STR_GW_SERVER_ORGANIZATIONS_ERRORALREADYEXISTING">
+                <Original>NO EXISTING ORGANIZATIONS TO INITIALIZE</Original>
+                <English>NO EXISTING ORGANIZATIONS TO INITIALIZE</English>
+            </Key>
+        </Container>
+	</Package>
+</Project>

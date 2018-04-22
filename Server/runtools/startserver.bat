@@ -1,0 +1,1 @@
+"C:\ArmA3Server_GroundWarsExistence_01\arma3server_x64.exe" -port=2302 "-config=C:\ArmA3Server_GroundWarsExistence_01\configs\server.cfg" "-profiles=C:\ArmA3Server_GroundWarsExistence_01\serverprofile" "-bepath=C:\ArmA3Server_GroundWarsExistence_01\battleye" "-servermod=@arametrics;@GW_Server;@extDB3" "-name=GroundWars" -loadMissionToMemory -autoInit

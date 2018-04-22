@@ -1,0 +1,6 @@
+{
+    "CommonValues": {
+        "UnitBaseUrl": "https://units.arma3.com/unit/:groupSlug",
+        "LogoBaseUrl": "https://units.arma3.com/groups/img/:groupID/"
+    }
+}
