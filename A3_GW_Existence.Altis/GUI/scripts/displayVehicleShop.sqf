@@ -182,7 +182,7 @@ switch (_event) do
 
                 _ctrlTextName ctrlSetText _vehicleDisplayName;
                 _ctrlTextNameSecond ctrlSetText _vehicleDisplayName;
-                _ctrlTextPrice ctrlSetText format ["Purchase for £%1 and rent for £%2", _formattedPricePurchase, _formattedPriceRental];
+                _ctrlTextPrice ctrlSetText format ["Purchase for %1 and rent for %2", _formattedPricePurchase, _formattedPriceRental];
                 _ctrlTextMaxSpeed ctrlSetText (str _maxSpeed + " km/h");
                 _ctrlTextHorsePower ctrlSetText str _hp;
                 _ctrlTextPassengerSeats ctrlSetText str _seats;
