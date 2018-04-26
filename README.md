@@ -30,3 +30,11 @@ Copyright (c) 2017-2018 Simon A. (SimZor), Ground Wars: Existence (A3RPGFRAMEWOR
 - fn_externalFuncs.sqf
 - fn_queryDB.sqf.
 - Any pictures, icons etc (.jpg, .paa, .png)
+
+## Previous repository
+
+For those of you who wonder why there is little history/versions of each file and not a lot of commits - we were not able to make the previous repository public due to security concerns, revealing things like passwords and similar in the history/versions.
+
+Nevertheless, here is a screendump from the previous repo of the contributors that worked with me at that time and how our timeline looks like.
+<img src="https://i.imgur.com/dNBkpXA.png" />
+
