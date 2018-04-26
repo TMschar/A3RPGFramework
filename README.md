@@ -12,14 +12,22 @@
 
 ## Quickstart
 
+Quickstart is currently work in progress, however, if you have any questions or concerns, join our Discord server. Link is on top!
+
 ## Documentation
 
+Documentation is work in progress at the moment, but we are trying to get this out as quickly as possible. Join us on Discord if you want to help us doing this.
+
 ## Dependencies
-- extDB3
+- extDB 3+ (You need to get the DLLs yourself at the extDB3 repo at the following url: https://bitbucket.org/torndeco/extdb3/downloads/)
 
 ## Maintainers
 
+You can see all the maintainers on Discord in their roles.
+
 ## Contributors
+
+You can see all the contributors on Discord in their roles.
 
 ## Copyright and License
 
