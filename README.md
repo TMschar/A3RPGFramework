@@ -23,8 +23,10 @@
 
 ## Copyright and License
 
-Code copyright 2017 - 2018 Simon A. (SimZor). 
+Copyright (c) 2017-2018 Simon A. (SimZor), Ground Wars: Existence (A3RPGFRAMEWORK) 
 
-All code is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY NC 4.0</a> with the exception of the following functions:
+### All code is licensed under the MIT license with the exception of the following functions and files:
+
 - fn_externalFuncs.sqf
 - fn_queryDB.sqf.
+- Any pictures, icons etc (.jpg, .paa, .png)
