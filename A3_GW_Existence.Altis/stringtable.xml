@@ -14,138 +14,168 @@
 				<Czech>ano</Czech>
 				<French>oui</French>
 				<German>ja</German>
-				<Italian>s√¨</Italian>
+				<Italian>sÏ</Italian>
 				<Polish>tak</Polish>
 				<Portuguese>sim</Portuguese>
-				<Russian>–¥–∞</Russian>
-				<Spanish>s√≠</Spanish>
-				<Korean>ÎÑ§</Korean>
-				<Japanese>„ÅØ„ÅÑ</Japanese>
+				<Russian>??</Russian>
+				<Spanish>sÌ</Spanish>
+				<Korean>?</Korean>
+				<Japanese>??</Japanese>
 			</Key>
 			<Key ID="STR_GW_GLOBAL_NO">
 				<Original>No</Original>
+                <German>Nein</German>
 			</Key>
             <Key ID="STR_GW_GLOBAL_CLOSE">
                 <Original>CLOSE</Original>
                 <English>CLOSE</English>
+                <German>SCHLIESSEN</German>
             </Key>
             <Key ID="STR_GW_GLOBAL_CLOSEMENU">
                 <Original>Close current menu</Original>
                 <English>Close current menu</English>
+                <German>Men¸ schliessen</German>
             </Key>
             <Key ID="STR_GW_GLOBAL_OK">
                 <Original>OK</Original>
                 <English>OK</English>
+                <German>OK</German>
             </Key>
             <Key ID="STR_GW_GLOBAL_NA">
                 <Original>N/A</Original>
                 <English>N/A</English>
+                <German>N/A</German>
             </Key>
             <Key ID="STR_GW_GLOBAL_X">
                 <Original>X</Original>
                 <English>X</English>
+                <German>X</German>
             </Key>
 		</Container>
         <Container name="STR_GW_LOG_SYSTEM">
             <Key ID="STR_GW_LOG_SYSTEM_GLOBAL_PARAMERROR">
                 <Original>NOT ENOUGH PARAMS PASSED</Original>
                 <English>NOT ENOUGH PARAMS PASSED</English>
+                <German>NICHT GENUG PARAMS VERF‹GBAR</German>
             </Key>
             <Key ID="STR_GW_LOG_SYSTEM_PROPERTIES_CLIENTSETUPFINISHED">
                 <Original>FINISHED SETTING UP PROPERTY AT LOCATION %1 FOR %2:%3</Original>
                 <English>FINISHED SETTING UP PROPERTY AT LOCATION %1 FOR %2:%3</English>
+                <German>FERTIGSTELLUNG DES EIGENTUMS ORT %1 F‹R %2:%3</German>
             </Key>
             <Key ID="STR_GW_LOG_SYSTEM_SETCONSTANT_EXIT1">
                 <Original>FAILED TO SET CONSTANT, VARIABLE IS NOTHING</Original>
                 <English>FAILED TO SET CONSTANT, VARIABLE IS NOTHING</English>
+                <German>KONSTANTENFEHLER, VARIABLE KEIN WERT</German>
             </Key>
             <Key ID="STR_GW_LOG_SYSTEM_SETCONSTANT_EXIT2">
                 <Original>FAILED TO SET CONSTANT, VALUE IS NIL</Original>
                 <English>FAILED TO SET CONSTANT, VALUE IS NIL</English>
+                <German>KONSTANTENFEHLER, WERT IST NIL</German>
             </Key>
             <Key ID="STR_GW_LOG_SYSTEM_SETCONSTANT_EXIT3">
                 <Original>FAILED TO SET CONSTANT, NAMESPACE IS NIL</Original>
                 <English>FAILED TO SET CONSTANT, NAMESPACE IS NIL</English>
+                <German>KONSTANTENFEHLER, NAMESPACE IST NIL</German>
             </Key>
         </Container>
         <Container name="STR_GW_ACTIONSPROGRESS">
             <Key ID="STR_GW_ACTIONSPROGRESS_REPAIR">
                 <Original>Repairing Vehicle</Original>
                 <English>Repairing Vehicle</English>
+                <German>Repariere Fahrzeug</German>
             </Key>
             <Key ID="STR_GW_ACTIONSPROGRESS_CRUSHVEHICLE">
                 <Original>Crushing Vehicle</Original>
                 <English>Crushing Vehicle</English>
+                <German>zerstˆre Fahrzeug</German>
             </Key>
             <Key ID="STR_GW_ACTIONSPROGRESS_IMPOUNDVEHICLE">
                 <Original>Impounding Vehicle</Original>
                 <English>Impounding Vehicle</English>
+                <German>schleppe Fahrzeug abb</German>
             </Key>
             <Key ID="STR_GW_ACTIONSPROGRESS_VEHICLEUNFLIP">
                 <Original>Unflipping Vehicle</Original>
                 <English>Unflipping Vehicle</English>
+                <German>drehe Fahrzeug um</German>
             </Key>
             <Key ID="STR_GW_ACTIONSPROGRESS_HEALING">
                 <Original>Healing</Original>
                 <English>Healing</English>
+                <German>Verarzte</German>
             </Key>
             <Key ID="STR_GW_ACTIONSPROGRESS_LOCKPICKING">
                 <Original>Lockpicking Vehicle</Original>
                 <English>Lockpicking Vehicle</English>
+                <German>Breche Fahrzeug auf</German>
             </Key>
             <Key ID="STR_GW_ACTIONSPROGRESS_PETROLSTATIONROBBERY">
                 <Original>Robbing Petrol Station</Original>
                 <English>Robbing Petrol Station</English>
+                <German>Raube Tankstelle aus</German>
             </Key>
             <Key ID="STR_GW_ACTIONSPROGRESS_GIVEBLOOD">
                 <Original>Giving Blood</Original>
                 <English>Giving Blood</English>
+                <German>Blut geben</German>
             </Key>
             <Key ID="STR_GW_ACTIONSPROGRESS_OPENPHYSICALINVENTORY">
                 <Original>Opening Inventory</Original>
                 <English>Opening Inventory</English>
+                <German>÷ffne Inventar</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYINIT">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_PRESS">
                 <Original>PRESS</Original>
                 <English>PRESS</English>
+                <German>Dr¸cke</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_ANYKEY">
                 <Original>[ANY KEY]</Original>
                 <English>[ANY KEY]</English>
+                <German>[ANY KEY]</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_ADVANCE">
                 <Original>TO ADVANCE</Original>
                 <English>TO ADVANCE</English>
+                <German>TO ADVANCE</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_FIRSTSEEN">
                 <Original>First Seen:</Original>
                 <English>First Seen:</English>
+                <German>Das erste mal gesehen:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_LASTSEEN">
                 <Original>Last Seen:</Original>
                 <English>Last Seen:</English>
+                <German>das Letzte mal gesehen:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_PLAYTIME">
                 <Original>Playtime:</Original>
                 <English>Playtime:</English>
+                <German>Spielzeit:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_POLICE">
                 <Original>Military Police</Original>
                 <English>Military Police</English>
+                <German>Milit‰rpolizei</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_MEDICS">
                 <Original>UN Humanitarian Aid</Original>
                 <English>UN Humanitarian Aid</English>
+                <German>Humanit‰re Hilfe der Vereinten Nationen</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_STAFFSLOT">
                 <Original>Restricted Staff Slot</Original>
                 <English>Restricted Staff Slot</English>
+                <German>Restricted Staff Slot</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINIT_CIVILIAN">
                 <Original>Civilian</Original>
                 <English>Civilian</English>
+                <German>Zivilist</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYEXPERIENCE">
@@ -156,666 +186,818 @@
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYEXPERIENCE_PERKS">
                 <Original>Perks</Original>
                 <English>Perks</English>
+                <German>Erfahrungspunkte</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_TITLE">
                 <Original>Messaging</Original>
                 <English>Messaging</English>
+                <German>Nachricht schreiben</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_RECEIVEDMESSAGES">
                 <Original>Received Messages</Original>
                 <English>Received Messages</English>
+                <German>Erhaltene Nachrichten</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_FROM">
                 <Original>From:</Original>
                 <English>From:</English>
+                <German>Von:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_TO">
                 <Original>To:</Original>
                 <English>To:</English>
+                <German>Zu:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_DATE">
                 <Original>Date:</Original>
                 <English>Date:</English>
+                <German>Datum:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_LOCATION">
                 <Original>Location:</Original>
                 <English>Location:</English>
+                <German>Ort:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_REPLY">
                 <Original>REPLY</Original>
                 <English>REPLY</English>
+                <German>ANTWORTEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_DELETE">
                 <Original>DELETE</Original>
                 <English>DELETE</English>
+                <German>L÷SCHEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONMESSAGES_NEWMESSAGE">
                 <Original>CONTACTS</Original>
                 <English>CONTACTS</English>
+                <German>KONTAKTE</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_HUD">
             <Key ID="STR_GW_GUI_DISPLAYS_HUD_SYNCINGDATA">
                 <Original>SYNCING DATA</Original>
                 <English>SYNCING DATA</English>
+                <German>SPEICHERN</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONSENDMESSAGE">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONSENDMESSAGE_TITLE">
                 <Original>Compose a message</Original>
                 <English>Compose a message</English>
+                <German>eine Nachricht verfassen</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONSENDMESSAGE_TO">
                 <Original>To:</Original>
                 <English>To:</English>
+                <German>Zu:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONSENDMESSAGE_LOCATION">
                 <Original>Location:</Original>
                 <English>Location:</English>
+                <German>Ort:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONSENDMESSAGE_TOOLTIPLOCATION">
                 <Original>Attach your location with the message</Original>
                 <English>Attach your location with the message</English>
+                <German>Schicke deinen Ort mit</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONSENDMESSAGE_SENDMESSAGE">
                 <Original>SEND MESSAGE</Original>
                 <English>SEND MESSAGE</English>
+                <German>NACHRICHT SCHREIBEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYCOMMUNICATIONSENDMESSAGE_GOBACK">
                 <Original>GO BACK</Original>
                 <English>GO BACK</English>
+                <German>ZUR‹CK</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYORGANIZATIONS">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYORGANIZATIONS_TITLE">
                 <Original>Organizations Directory</Original>
                 <English>Organizations Directory</English>
+                <German>Organosationswˆrterbuch</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYORGANIZATIONS">
                 <Original>Organizations</Original>
                 <English>Organizations</English>
+                <German>Organtisation</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_BLEEDOUT">
             <Key ID="STR_GW_GUI_BLEEDOUT_ESCAPENOTICE">
                 <Original>PRESS [ESCAPE] TO RESPAWN</Original>
                 <English>PRESS [ESCAPE] TO RESPAWN</English>
+                <German>[ESCAPE] UM NEU ZU SPAWNEN</German>
             </Key>
             <Key ID="STR_GW_GUI_BLEEDOUT_TITLE">
                 <Original>Bleeding Out - %1%2 Blood Left</Original>
                 <English>Bleeding Out - %1%2 Blood Left</English>
+                <German>Verblute - %1%2 Blut ¸brig</German>
             </Key>
             <Key ID="STR_GW_GUI_BLEEDOUT_REVIVING">
                 <Original>Reviving Player</Original>
                 <English>Reviving Player</English>
+                <German>Spieler wiederbeleben</German>
             </Key>
             <Key ID="STR_GW_GUI_BLEEDOUT_BEINGREVIVED">
                 <Original>Revive in Progress</Original>
                 <English>Revive in Progress</English>
+                <German>Reanimation in bearbeitung</German>
             </Key>
             <Key ID="STR_GW_GUI_BLEEDOUT_CLOSESTMEDIC">
                 <Original>MEDICAL SERVICES [%1 km]</Original>
                 <English>MEDICAL SERVICES [%1 km]</English>
+                <German>ARZT [%1 km]</German>
             </Key>
             <Key ID="STR_GW_GUI_BLEEDOUT_CLOSESTMEDICUNAVAILABLE">
                 <Original>MEDICAL SERVICES [UNAVAILABLE]</Original>
                 <English>MEDICAL SERVICES [UNAVAILABLE]</English>
+                <German>ARZT [NICHT VERF‹GBAR]</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYGUIDE">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYGUIDE_TITLE">
                 <Original>Ground Wars Guide</Original>
                 <English>Ground Wars Guide</English>
+                <German>Ground Wars Guide</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYGUIDE_GW">
                 <Original>Ground Wars</Original>
                 <English>Ground Wars</English>
+                <German>Ground Wars</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYGUIDE_RULES">
                 <Original>Rules</Original>
                 <English>Rules</English>
+                <German>Regeln</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYGUIDE_GUIDE">
                 <Original>Guide</Original>
                 <English>Guide</English>
+                <German>Guide</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYGUIDE_GENERAL">
                 <Original>General</Original>
                 <English>General</English>
+                <German>Allgemeines</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYGUIDE_BEHAVIOUR">
                 <Original>Behaviour</Original>
                 <English>Behaviour</English>
+                <German>Verhalten</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYADMIN">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TITLE">
                 <Original>Administration</Original>
                 <English>Administration</English>
+                <German>Administration</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_DEVCONSOLE">
                 <Original>Open the developer console</Original>
                 <English>Open the developer console</English>
+                <German>÷ffne die Entwickler Konsole</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_CAMERA">
                 <Original>Splendid Camera</Original>
                 <English>Splendid Camera</English>
+                <German>Kamera</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_ARSENAL">
                 <Original>Arsenal</Original>
                 <English>Arsenal</English>
+                <German>Arsenal</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_MAP">
                 <Original>Toggle Map</Original>
                 <English>Toggle Map</English>
+                <German>Toggle Map</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_MAPMARKERS">
                 <Original>Toggle Default Map Markers</Original>
                 <English>Toggle Default Map Markers</English>
+                <German>Schalten Map Marker an/aus</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_REVIVEALL">
                 <Original>Revive all players on server</Original>
                 <English>Revive all players on server</English>
+                <German>Belebe alle Spieler wieder</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_GRID">
                 <Original>GRID</Original>
                 <English>GRID</English>
+                <German>GRID</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_WEATHER">
                 <Original>Weather Proeprties</Original>
                 <English>Weather Properties</English>
+                <German>Wetter Einstellungen</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_EXIT">
                 <Original>Exit Administration</Original>
                 <English>Exit Administration</English>
+                <German>Verlasse Administration</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_KILLUNIT">
                 <Original>Kill Unit</Original>
                 <English>Kill Unit</English>
+                <German>Spieler tˆten</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_SPECTATEUNIT">
                 <Original>Spectate Unit</Original>
                 <English>Spectate Unit</English>
+                <German>Spieler zuschauen</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_MOVEINUNITSVEHICLE">
                 <Original>Move into units vehicle</Original>
                 <English>Move into units vehicle</English>
+                <German>Spieler ins Fahrzeug setzten</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_TOGGLEIMMUNE">
                 <Original>Toggle Immune</Original>
                 <English>Toggle Immune</English>
+                <German>Toggle Immune</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_TOGGLEINVISIBLE">
                 <Original>Toggle Invisibility</Original>
                 <English>Toggle Invisibility</English>
+                <German>Toggle Invisibility</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_TOOLTIP_HEALPLAYER">
                 <Original>Heal Player</Original>
                 <English>Heal Player</English>
+                <German>Spieler heilen</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_NOSELECTEDUNIT">
                 <Original>No unit selected</Original>
                 <English>No unit selected</English>
+                <German>Kein Spieler ausgew‰hlt</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_PLAYERUID">
                 <Original>Player UID</Original>
                 <English>Player UID</English>
+                <German>Spieler UID</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_NAME">
                 <Original>Name</Original>
                 <English>Name</English>
+                <German>Name</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_VEHICLEDAMAGE">
                 <Original>Vehicle Damage</Original>
                 <English>Vehicle Damage</English>
+                <German>Fahrzeugschaden</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_VEHICLETYPE">
                 <Original>Vehicle Type</Original>
                 <English>Vehicle Type</English>
+                <German>Fahrzeugtyp</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_NOVEHICLESELECTED">
                 <Original>No vehicle selected</Original>
                 <English>No vehicle selected</English>
+                <German>kein Fahrzeug ausgew‰hlt</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMIN_GRIDREF">
                 <Original>GridRef</Original>
                 <English>GridRef</English>
+                <German>GridRef</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_TITLE">
                 <Original>WEATHER PROPERTIES</Original>
                 <English>WEATHER PROPERTIES</English>
+                <German>WETTEREINSTELLUNGEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_TIME">
                 <Original>TIME</Original>
                 <English>TIME</English>
+                <German>ZET</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_OVERCAST">
                 <Original>OVERCAST</Original>
                 <English>OVERCAST</English>
+                <German>BEDECKT</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_FOG">
                 <Original>FOG</Original>
                 <English>FOG</English>
+                <German>NEBEL</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_DECAY">
                 <Original>DECAY</Original>
                 <English>DECAY</English>
+                <German>DECAY</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_BASE">
                 <Original>BASE</Original>
                 <English>BASE</English>
+                <German>BASE</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_RAIN">
                 <Original>RAIN</Original>
                 <English>RAIN</English>
+                <German>REGEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_WAVES">
                 <Original>WAVES</Original>
                 <English>WAVES</English>
+                <German>WELLEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_LIGHTNING">
                 <Original>LIGHTNING</Original>
                 <English>LIGHTNING</English>
+                <German>LICHT</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_WINDS">
                 <Original>WINDS</Original>
                 <English>WINDS</English>
+                <German>WIND</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_CHANGEWEATHER">
                 <Original>CHANGE WEATHER</Original>
                 <English>CHANGE WEATHER</English>
+                <German>WETTER WECHSELN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYADMINCHILDWEATHERPROPERTIES_CLOSEWEATHER">
                 <Original>CLOSE WEATHER</Original>
                 <English>CLOSE WEATHER</English>
+                <German>WETTER SCHLIESSEN</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYPAUSE">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYPAUSE_CONTINUE">
                 <Original>Continue</Original>
                 <English>Continue</English>
+                <German>Weiter</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYPAUSE_RETURNTOLOBBY">
                 <Original>Return to Lobby</Original>
                 <English>Return to Lobby</English>
+                <German>zur¸ck zur Lobby</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYPAUSE_GUIDE">
                 <Original>Guide</Original>
                 <English>Guide</English>
+                <German>Guide</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYPAUSE_VIEWSETTINGS">
                 <Original>Player Settings</Original>
                 <English>Player Settings</English>
+                <German>Spielereinstellungen</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYPAUSE_GAMEOPTIONS">
                 <Original>Game Options</Original>
                 <English>Game Options</English>
+                <German>Spieleinstellungen</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYPAUSE_SUICIDE">
                 <Original>Commit Suicide</Original>
                 <English>Commit Suicide</English>
+                <German>Selbstmord</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_TITLE">
                 <Original>Developer Console</Original>
                 <English>Developer Console</English>
+                <German>Entwickler Konsole</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXPANDTOOLS">
                 <Original>EXPAND TOOLS</Original>
                 <English>EXPAND TOOLS</English>
+                <German>TOOL ERWEITERN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_CONTRACTTOOLS">
                 <Original>CONTRACT TOOLS</Original>
                 <English>CONTRACT TOOLS</English>
+                <German>TOOL VERKLEINERN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_WATCHCODE">
                 <Original>Watch code</Original>
                 <English>Watch code</English>
+                <German>Watch code</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_ONLINEPLAYERS">
                 <Original>Players</Original>
                 <English>Players</English>
+                <German>Spieler</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXECTARGETS">
                 <Original>Execute on targets</Original>
                 <English>Execute on targets</English>
+                <German>Auf Ziel ausf¸hren</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXECSELPLAYER">
                 <Original>EXECUTE ON SELECTED PLAYER</Original>
                 <English>EXECUTE ON SELECTED PLAYER</English>
+                <German>AUF SPIELER AUSF‹HREN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXECSERVER">
                 <Original>EXECUTE ON SERVER</Original>
                 <English>EXECUTE ON SERVER</English>
+                <German>AUF SERVER AUSF‹HREN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXECGLOBAL">
                 <Original>EXECUTE ON GLOBAL</Original>
                 <English>EXECUTE ON GLOBAL</English>
+                <German>GLOBAL AUSF‹HREN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXECLOCAL">
                 <Original>EXECUTE ON LOCAL</Original>
                 <English>EXECUTE ON LOCAL</English>
+                <German>LOKAL AUSF‹HREN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_SAFETYCHECKBOXTOOLTIP">
                 <Original>Enable 3rd party execution</Original>
                 <English>Enable 3rd party execution</English>
+                <German>Enable 3rd party execution</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXECUTEON">
                 <Original>Execute on %1?</Original>
                 <English>Execute on %1?</English>
+                <German>Auf %1 ausf¸hren?</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_ANIMVIEWER">
                 <Original>ANIM VIEWER</Original>
                 <English>ANIM VIEWER</English>
+                <German>ANIMATIONEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_CAMERA">
                 <Original>CAMERA</Original>
                 <English>CAMERA</English>
+                <German>KAMERA</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_UTILS">
                 <Original>UTILS</Original>
                 <English>UTILS</English>
+                <German>UTILS</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_CFGVIEWER">
                 <Original>CONFIG VIEWER</Original>
                 <English>CONFIG VIEWER</English>
+                <German>CONFIG VIEWER</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_FNCSVIEWER">
                 <Original>FUNCTIONS VIEWER</Original>
                 <English>FUNCTIONS VIEWER</English>
+                <German>FUNKTIONEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXTERNALTOOLS">
                 <Original>EXTERNAL TOOLS</Original>
                 <English>EXTERNAL TOOLS</English>
+                <German>EXTERNE WERKZEUGE</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYDEVELOPERCONSOLE_EXPGUICLASSES">
                 <Original>EXP. GUI CLASS.</Original>
                 <English>EXP. GUI CLASS.</English>
+                <German>EXP. GUI CLASS.</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_TITLE">
                 <Original>VIEW SETTINGS</Original>
                 <English>VIEW SETTINGS</English>
+                <German>EINSTELLUNGEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_SAVE">
                 <Original>SAVE</Original>
                 <English>SAVE</English>
+                <German>SPEICHERN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_VIEWDISTANCESETTINGS">
                 <Original>VIEW DISTANCE SETTINGS</Original>
                 <English>VIEW DISTANCE SETTINGS</English>
+                <German>SICHTEINSTELLUNG</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_ONFOOT">
                 <Original>ON FOOT</Original>
                 <English>ON FOOT</English>
+                <German>ZU FUSS</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_INVEHICLES">
                 <Original>IN VEHICLES</Original>
                 <English>IN VEHICLES</English>
+                <German>IM FAHRZEUG</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_INAIR">
                 <Original>IN AIR</Original>
                 <English>IN AIR</English>
+                <German>IN LUFT</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_OBJVIEWDISTANCE">
                 <Original>OBJECT REMDER DISTANCE</Original>
                 <English>OBJECT RENDER DISTANCE</English>
+                <German>OBJEKT RENDER ENTFERNUNG</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_GRASSDETAIL">
                 <Original>GRASS DETAIL</Original>
                 <English>GRASS DETAIL</English>
+                <German>GRASS DETAIL</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_PLAYERMARKERSETTINGS">
                 <Original>PLAYER MARKER SETTINGS</Original>
                 <English>PLAYER MARKER SETTINGS</English>
+                <German>SPIELER MARKIERUNG</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_ENABLE3DMARKERS">
                 <Original>ENABLE 3D MARKERS</Original>
                 <English>ENABLE 3D MARKERS</English>
+                <German>3D MARKER AN/AUS</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_SYNCOBJECTSWITHVIEW">
                 <Original>SYNC OBJECTS WITH VIEW</Original>
                 <English>SYNC OBJECTS WITH VIEW</English>
+                <German>OBJECTE NACH ANSICHT SPEICHERN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYVIEWSETTINGS_ENABLEMAPMARKERS">
                 <Original>ENABLE MAP MARKERS</Original>
                 <English>ENABLE MAP MARKERS</English>
+                <German>MARKER AUF DER KARTE</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYINTERACTIONMENU">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYINTERACTIONMENU_TITLE">
                 <Original>Interaction Menu</Original>
                 <English>Interaction Menu</English>
+                <German>Interaktionsmen¸</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYMENU">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_TITLE">
                 <Original>Main Menu</Original>
                 <English>Main Menu</English>
+                <German>Hauptmenm¸</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_NAME">
                 <Original>Name:</Original>
                 <English>Name:</English>
+                <German>Name:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_ORGANIZATION">
                 <Original>Group:</Original>
                 <English>Group:</English>
+                <German>Gruppe:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_PLAYTIME">
                 <Original>Playtime:</Original>
                 <English>Playtime:</English>
+                <German>Spielzeit:</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_BANK">
                 <Original>Bank:</Original>
                 <English>Bank:</English>
+                <German>Bank</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_CASH">
                 <Original>Cash:</Original>
                 <English>Cash:</English>
+                <German>Bargeld</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_COMMSYSTEMS">
                 <Original>Communication Systems</Original>
                 <English>Communication Systems</English>
+                <German>Kommunikationssystem</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_organizationS">
                 <Original>Organizations</Original>
                 <English>Organizations</English>
+                <German>Organisation</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_EXPERIENCE">
                 <Original>Experience</Original>
                 <English>Experience</English>
+                <German>Erfahrungspunkte</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_KEYCHAIN">
                 <Original>My Vehicles</Original>
                 <English>My Vehicles</English>
+                <German>Meine Fahrzeuge</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_INVENTORY">
                 <Original>Inventory</Original>
                 <English>Inventory</English>
+                <German>Inventar</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_WANTEDDB">
                 <Original>Wanted Database</Original>
                 <English>Wanted Database</English>
+                <German>Fahndungsliste</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_SETTLEMENTS">
                 <Original>Settlements</Original>
                 <English>Settlements</English>
+                <German>Settlements</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_HOVERDEFAULT">
                 <Original>Hover over an icon</Original>
                 <English>Hover over an icon</English>
+                <German>Bewege den Mauszeiger ¸ber ein Symbol</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYMENU_ORGANIZATIONDEFAULT">
                 <Original>Not part of an organization</Original>
                 <English>Not part of an organization</English>
+                <German>Du gehˆrst keiner Organisation an</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYSPAWNS">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYSPAWNS_AVAILABLESPAWNS">
                 <Original>Available Spawns</Original>
                 <English>Available Spawns</English>
+                <German>verf¸gbare Spawnpunkte</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYSPAWNS_MAP">
                 <Original>Map</Original>
                 <English>Map</English>
+                <German>Karte</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYSPAWNS_SPAWNINFO">
                 <Original>Spawn Information</Original>
                 <English>Spawn Information</English>
+                <German>Spawn Information</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYSPAWNS_SPAWN">
                 <Original>SPAWN</Original>
                 <English>SPAWN</English>
+                <German>SPAWN</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYACCOUNTS">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYACCOUNTS_TITLE">
                 <Original>Accounts</Original>
                 <English>Accounts</English>
+                <German>Konto</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYACCOUNTS_OPEN">
                 <Original>OPEN</Original>
                 <English>OPEN</English>
+                <German>÷FFNEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYACCOUNTS_ORGANIZATIONACCOUNTS">
                 <Original>Organization Accounts</Original>
                 <English>Organization Accounts</English>
+                <German>Organtisationkonto</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYACCOUNTS_PERSONALACCOUNTS">
                 <Original>Personal Accounts</Original>
                 <English>Personal Accounts</English>
+                <German>Persˆnliches Konto</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYACCOUNTS_BANKACCOUNT">
                 <Original>Bank Account</Original>
                 <English>Bank Account</English>
+                <German>Bankkonto</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYACCOUNTS_COMPACCOUNT">
                 <Original>Compensation Account</Original>
                 <English>Compensation Account</English>
+                <German>Kompensationskonto</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_DISPLAYS_DISPLAYBANK">
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYBANK_TITLE">
                 <Original>Bank Account</Original>
                 <English>Bank Account</English>
+                <German>Bankkonto</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYBANK_BANK">
                 <Original>Bank</Original>
                 <English>Bank</English>
+                <German>Bank</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYBANK_CASH">
                 <Original>Cash</Original>
                 <English>Cash</English>
+                <German>Bar</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYBANK_BUTTONWITHDRAW">
                 <Original>WITHDRAW</Original>
                 <English>WITHDRAW</English>
+                <German>ABHEBEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYBANK_BUTTONDEPOSIT">
                 <Original>DEPOSIT</Original>
                 <English>DEPOSIT</English>
+                <German>EINZAHLEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYBANK_BUTTONDEPOSITALL">
                 <Original>DEPOSIT ALL</Original>
                 <English>DEPOSIT ALL</English>
-            </Key>
-            <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYBANK_TRANSFERS">
-                <Original>Transfers</Original>
-                <English>Transfers</English>
+                <German>ALLES EINZAHLEN</German>
             </Key>
             <Key ID="STR_GW_GUI_DISPLAYS_DISPLAYBANK_TRANSFER">
                 <Original>TRANSFER</Original>
                 <English>TRANSFER</English>
+                <German>‹BERWEISEN</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_SYSTEMS_PROPERTY">
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PROPERTYLIMIT">
                 <Original>You cannot purchase this property as your property limit has been met for this category. Sell your other property in order to purchase this one.</Original>
                 <English>You cannot purchase this property as your property limit has been met for this category. Sell your other property in order to purchase this one.</English>
+                <German>Du kannst dieses Grundst¸ck nicht kaufen da du zu viele hast. Verkauf erst andere bevor du dieses kaufen kannst.</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_INSUFFICIENTFUNDS">
                 <Original>Insufficient funds</Original>
                 <English>Insufficient funds</English>
+                <German>nicht genug Geld</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PLAYERFUNDS">
                 <Original>You do not have sufficient funds in your personal bank account, therefore you cannot purchase this property.</Original>
                 <English>You do not have sufficient funds in your personal bank account, therefore you cannot purchase this property.</English>
+                <German>Du hast nicht genug Geld auf der Bank um dieses Grundst¸ck zu kaufen</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_ORGANIZATIONFUNDS">
                 <Original>You do not have sufficient funds in your organizations bank account, therefore you cannot purchase this property. You can add funds to your organization via a cashpoint.</Original>
                 <English>You do not have sufficient funds in your organizations bank account, therefore you cannot purchase this property. You can add funds to your organization via a cashpoint.</English>
+                <German>Deine Organisation hat nicht genug Geld, somit kannst du dieses Grundst¸ck nicht kaufen. Du kannst an einem Automaten Geld einzahlen.</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PROCESSPURCHASETITLE">
                 <Original>Property Purchase Processing</Original>
                 <English>Property Purchase Processing</English>
+                <German>Immobilienkaufverarbeitung</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PROCESSPURCHASE">
                 <Original>Your property purchase request is being processed. Please wait...</Original>
                 <English>Your property purchase request is being processed. Please wait...</English>
+                <German>Ihre Immobilienkaufanfrage wird bearbeitet. Warte einen Moment...</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PROPERTYLIMITMETTITLE">
                 <Original>Property limit met</Original>
                 <English>Property limit met</English>
+                <German>Grundst¸cks Limit erreicht</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PROPERTYUNAVAILABLETITLE">
                 <Original>Property Unavailable</Original>
                 <English>Property Unavailable</English>
+                <German>Grundst¸ck nicht verf¸gbar</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PROPERTYUNAVAILABLE">
                 <Original>This property is already owned by another player</Original>
                 <English>This property is already owned by another player</English>
+                <German>dieses Grundst¸ck gehˆrt breits jemandem anders</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PROPERTYBLOCKEDTITLE">
                 <Original>Property Blocked</Original>
                 <English>Property Blocked</English>
+                <German>Grundst¸ck blockiert</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PROPERTYBLOCKED">
                 <Original>Purchase of this property is blocked. If you have questions regarding this property, consult a member of staff.</Original>
                 <English>Purchase of this property is blocked. If you have questions regarding this property, consult a member of staff.</English>
+                <German>Grundst¸ck ist f¸r den kauf gesperrt. Falls du fragen hast wende dich an einen Admin.</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PPROPERTYPURCHASECOMPLETE">
                 <Original>Property purhase complete</Original>
                 <English>Property purhase complete</English>
+                <German>Grundst¸ckskauf abgeschlossen</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PPROPERTYPURCHASEFAILEDTITLE">
                 <Original>Property purhase failed</Original>
                 <English>Property purhase failed</English>
+                <German>Grundst¸ckskauf fehlgeschlagen</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_PROPERTY_PPROPERTYPURCHASEFAILED">
                 <Original>Ooops, it looks like this property is already purchased by another player. If this was an attempt to glitch your way to own this house, it won't work and you will end up being banned.</Original>
                 <English>Ooops, it looks like this property is already purchased by another player. If this was an attempt to glitch your way to own this house, it won't work and you will end up being banned.</English>
+                <German>Ooops, dieses Grundst¸ck gehˆrt bereits einem Spieler. Falls du versucht hast dir dieses Grundst¸ck zu erglitchen solltest du es sein lassen, wir beobachten dich.</German>
             </Key>
         </Container>
         <Container name="STR_GW_GUI_SYSTEMS_INVENTORY">
             <Key ID="STR_GW_GUI_SYSTEMS_INVENTORY_BACKPACKFAIL">
                 <Original>There is a lock on the backpack you are trying to open.</Original>
                 <English>There is a lock on the backpack you are trying to open.</English>
+                <German>Dieser Rucksack ist verschlossen</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_INVENTORY_BACKPACKFAILTITLE">
                 <Original>Backpack locked</Original>
                 <English>Backpack locked</English>
+                <German>Rucksack verschlossen</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_INVENTORY_UNITLOADOUTRELOADTITLE">
                 <Original>Unit loadout reloaded</Original>
                 <English>Unit loadout reloaded</English>
+                <German>Spieler Sachen neu geladen</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_INVENTORY_UNITLOADOUTRELOAD">
                 <Original>Your loadout has been reloaded and should have solved you appearing without clothes to other units.</Original>
                 <English>Your loadout has been reloaded and should have solved you appearing without clothes to other units.</English>
+                <German>Deine Sachen wurde neu geladen.</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_INVENTORY_HIDDENBACKPACKTITLE">
                 <Original>Backpack hidden</Original>
                 <English>Backpack hidden</English>
+                <German>Rucksack unsichtbar</German>
             </Key>
             <Key ID="STR_GW_GUI_SYSTEMS_INVENTORY_HIDDENBACKPACK">
                 <Original>Your backpack has been hidden. Keep in mind this does only hide the backpack for yourself, other units can still see it.</Original>
                 <English>Your backpack has been hidden. Keep in mind this does only hide the backpack for yourself, other units can still see it.</English>
+                <German>Dein Rucksack ist jetzt unsichtbar. Denk bitte dran, er ist nur f¸r dich nicht sehbar.</German>
             </Key>
         </Container>
 	</Package>
