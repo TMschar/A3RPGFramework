@@ -73,6 +73,7 @@ switch _event do
 
             private _display = ctrlParent _ctrl;
             private _ctrlButtonSpawn = _display displayCtrl IDC_DISPLAYSPAWNS_BUTTONSPAWN;
+            private _ctrlSpawnName = _display displayCtrl IDC_DISPLAYSPAWNS_SELSPAWNNAME;
             private _ctrlSpawnDescription = _display displayCtrl IDC_DISPLAYSPAWNS_SPAWNDESCRIPTION;
             private _tvData = _ctrl tvData _path;
 
@@ -91,11 +92,13 @@ switch _event do
                 ctrlMapAnimCommit _ctrlMap;
 
                 _ctrlButtonSpawn ctrlEnable true;
+                _ctrlSpawnName ctrlSetText _spawnName;
                 _ctrlSpawnDescription ctrlSetText _spawnDescription;
             }
             else
             {
                 _ctrlButtonSpawn ctrlEnable false;
+                _ctrlSpawnName ctrlSetText "";
                 _ctrlSpawnDescription ctrlSetText "";
             };
         }];
