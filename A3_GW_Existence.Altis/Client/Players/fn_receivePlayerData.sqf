@@ -149,3 +149,6 @@ GW_player_timeJoined = time;
 
 // Continue initializing
 GW_initPlayer_playerDataReceived = true;
+
+// Sync request
+[false] call GW_client_fnc_playerSyncRequest;
