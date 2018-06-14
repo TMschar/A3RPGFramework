@@ -37,9 +37,11 @@ if (!isNull _scriptHandle) exitWith {
 GW_playerSyncHandler_threadHandle = [] spawn {
     for "_i" from 0 to 1 step 0 do {
         uiSleep (SYNC_COOLDOWN * 60);
+        
         // Request sync
         [true] call GW_client_fnc_playerSyncRequest;
+        
         // Notify Players
-        [HINT_NORMAL, "Notice", "Your data has automaticlly been synced with our servers."] call GW_client_fnc_notificationsAdd;
+        [HINT_NORMAL, "Notice", "Your data has been synced to the database."] call GW_client_fnc_notificationsAdd;
     };
 };
