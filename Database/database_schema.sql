@@ -16,6 +16,37 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Table structure for table `players`
+--
+
+DROP TABLE IF EXISTS `players`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `players` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `player_id` varchar(17) NOT NULL,
+  `name` varchar(32) NOT NULL,
+  `aliases` text NOT NULL,
+  `insert_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `last_update` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `ranks` text NOT NULL,
+  `money` text NOT NULL,
+  `alive` tinyint(1) NOT NULL DEFAULT '0',
+  `inventory` text NOT NULL,
+  `gear` text NOT NULL,
+  `body_stats` text NOT NULL,
+  `playtime` text NOT NULL,
+  `experience` text NOT NULL,
+  `licenses` text NOT NULL,
+  `jail_time` int(10) NOT NULL DEFAULT '0',
+  `jail` text NOT NULL,
+  `admin_rank` enum('0','1','2','3') NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `playerid_UNIQUE` (`player_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
 -- Table structure for table `deaths`
 --
 
@@ -75,37 +106,6 @@ CREATE TABLE `organizations` (
   `org_members` text NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `org_ownerid_UNIQUE` (`org_ownerid`)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Table structure for table `players`
---
-
-DROP TABLE IF EXISTS `players`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `players` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `player_id` varchar(17) NOT NULL,
-  `name` varchar(32) NOT NULL,
-  `aliases` text NOT NULL,
-  `insert_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `last_update` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  `ranks` text NOT NULL,
-  `money` text NOT NULL,
-  `alive` tinyint(1) NOT NULL DEFAULT '0',
-  `inventory` text NOT NULL,
-  `gear` text NOT NULL,
-  `body_stats` text NOT NULL,
-  `playtime` text NOT NULL,
-  `experience` text NOT NULL,
-  `licenses` text NOT NULL,
-  `jail_time` int(10) NOT NULL DEFAULT '0',
-  `jail` text NOT NULL,
-  `admin_rank` enum('0','1','2','3') NOT NULL DEFAULT '0',
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `playerid_UNIQUE` (`player_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
