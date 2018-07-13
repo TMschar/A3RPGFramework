@@ -258,12 +258,20 @@ class GW_DISPLAYORGANIZATIONS: GW_displayStandard {
         	w                  = "0.01586 * safezoneW";
         	h                  = "0.022 * safezoneH";
         };
+        class BUTTON_LEAVEORG: GW_ctrlDefaultButton {
+            idc                = IDC_DISPLAYORGANIZATIONS_BUTTONLEAVEORG;
+        	text               = "LEAVE ORGANIZATION"; // ToDo: Localize;
+            x                  = "0.464583 * safezoneW + safezoneX";
+            y                  = "0.437037 * safezoneH + safezoneY";
+            w                  = "0.1195145 * safezoneW";
+            h                  = "0.0198 * safezoneH";
+        };
         class BUTTON_DISBANDORG: GW_ctrlDefaultButton {
             idc                = IDC_DISPLAYORGANIZATIONS_BUTTONDISBANDORG;
         	text               = "DISBAND ORGANIZATION"; // ToDo: Localize;
-        	x                  = "0.464583 * safezoneW + safezoneX";
+            x                  = "0.584000 * safezoneW + safezoneX";
         	y                  = "0.437037 * safezoneH + safezoneY";
-        	w                  = "0.239029 * safezoneW";
+        	w                  = "0.1195145 * safezoneW";
         	h                  = "0.0198 * safezoneH";
         };
         class BUTTON_STARTORG: GW_ctrlDefaultButton {
