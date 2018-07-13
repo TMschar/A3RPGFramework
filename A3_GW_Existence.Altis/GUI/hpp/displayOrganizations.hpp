@@ -260,7 +260,7 @@ class GW_DISPLAYORGANIZATIONS: GW_displayStandard {
         };
         class BUTTON_LEAVEORG: GW_ctrlDefaultButton {
             idc                = IDC_DISPLAYORGANIZATIONS_BUTTONLEAVEORG;
-        	text               = "LEAVE ORGANIZATION"; // ToDo: Localize;
+            text               = "LEAVE ORGANIZATION"; // ToDo: Localize;
             x                  = "0.464583 * safezoneW + safezoneX";
             y                  = "0.437037 * safezoneH + safezoneY";
             w                  = "0.1195145 * safezoneW";
