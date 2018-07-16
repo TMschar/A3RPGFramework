@@ -117,6 +117,9 @@ INIT_STATUS(.1, "Finalizing client setup...");
 // Start Sync Handler
 [true] call GW_client_fnc_playersSyncHandler;
 
+// Sync request
+[false] call GW_client_fnc_playerSyncRequest;
+
 GW_startAntihack = true;
 
 // Count time it took to initialize
